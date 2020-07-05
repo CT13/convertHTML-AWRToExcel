@@ -92,7 +92,7 @@ Extracting SGA Advisory Target  details
 
 --------------------------------------------------------------------------
 
-Step 6:
+Step 5:
 ==
 A an excel file named "output.xlsx" will be generated when it completed. That contains all details and visuals of the sections we enhanced an processed. 
 
