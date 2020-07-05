@@ -57,7 +57,7 @@ openpyxl
 --------------------------------------------------------------------------
 Step 3:
 ==
-Copy and paste the repository python script files in a location and keet it ready
+Copy and paste the repository python script files in a location and keep it ready
 
 --------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ Step 4:
 
 Execution Method: 
 
-prvoide full path+awr report name
+provide full path of AWR report.
 
 C:\Users\cthangavelu\Desktop\Delete\Python>python main.py
 
@@ -94,6 +94,6 @@ Extracting SGA Advisory Target  details
 
 Step 6:
 ==
-A an excel file named "output.xlsx" will be generated when it completed. That contains all details and visauals of the sections we etacted an processed. 
+A an excel file named "output.xlsx" will be generated when it completed. That contains all details and visuals of the sections we enhanced an processed. 
 
 Enjoy!!! and let me know your feedback to enhance this in a better way
